@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  IMAGE_NAME: desaiveds/module10_is601
+  IMAGE_NAME: desaiveds/module11_is601
 
 jobs:
   test:
